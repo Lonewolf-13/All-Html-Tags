@@ -69,7 +69,7 @@
 <pre>
 <progress>
 <q>
-<rpv
+<rp>
 <rt>
 <ruby>
 <s>
